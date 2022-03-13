@@ -1,0 +1,70 @@
+.footer{
+    border-top: 1px solid lightgray;
+    display: flex;
+    flex-direction: column;
+    height: 250px;
+    background-color: #65617d;
+}
+
+.groupFooter{
+    display: flex;
+    flex: 12;
+}
+
+.contactFooter{
+    flex: 4;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.contactItem{
+    font-size: 16px;
+    margin-left: 80px;
+    margin-bottom: 7px;
+    color: white;
+}
+
+.contactItemHeading{
+    font-size: 24px;
+    margin-left: 80px;
+    margin-bottom: 10px;
+    color: white;
+    font-weight: 500;
+}
+
+.linkFooter{
+    flex: 4;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.itemLink{
+    font-size: 16px;
+    color: white;
+    margin-left: 80px;
+    margin-bottom: 10px;
+}
+
+.socialFooter{
+    flex: 4;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.footerIcon{
+    font-size: 16px;
+    color: white;
+    margin-left: 80px;
+    margin-bottom: 10px;
+}
+
+.copyrightFooter{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: white;
+}
